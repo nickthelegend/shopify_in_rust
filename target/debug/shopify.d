@@ -1,0 +1,1 @@
+/home/nickthelegend/Documents/Projects/shopify_done/target/debug/shopify: /home/nickthelegend/Documents/Projects/shopify_done/src/checker.rs /home/nickthelegend/Documents/Projects/shopify_done/src/main.rs

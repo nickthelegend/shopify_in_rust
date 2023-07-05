@@ -1,0 +1,11 @@
+/home/nickthelegend/Documents/Projects/shopify_done/target/debug/deps/select-18b8fe362b551494.rmeta: /home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/lib.rs /home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/document.rs /home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/node.rs /home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/predicate.rs /home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/selection.rs
+
+/home/nickthelegend/Documents/Projects/shopify_done/target/debug/deps/libselect-18b8fe362b551494.rlib: /home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/lib.rs /home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/document.rs /home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/node.rs /home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/predicate.rs /home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/selection.rs
+
+/home/nickthelegend/Documents/Projects/shopify_done/target/debug/deps/select-18b8fe362b551494.d: /home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/lib.rs /home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/document.rs /home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/node.rs /home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/predicate.rs /home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/selection.rs
+
+/home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/lib.rs:
+/home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/document.rs:
+/home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/node.rs:
+/home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/predicate.rs:
+/home/nickthelegend/.cargo/registry/src/index.crates.io-6f17d22bba15001f/select-0.6.0/src/selection.rs:
